@@ -1,2 +1,2 @@
 # uminekononakukoroni
- A texted-based game explaining fantacy combine reality.
+ A texted-based game concerning fantacy combine reality.
